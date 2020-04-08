@@ -1,4 +1,4 @@
-## staging-develop app
+## demo-xcodegen-app 
 
 This app exists to demonstrate a bug in Xcodegen, so that I can link it to an issue in Xcodegen repo
 
