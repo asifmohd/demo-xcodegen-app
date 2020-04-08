@@ -6,5 +6,7 @@ targets:
     platform: iOS
     deploymentTarget: "13.0"
     sources: demo-xcodegen-app/
+    settings:
+      SWIFT_VERSION: 5.0
   
 
