@@ -1,0 +1,10 @@
+minimumXcodeGenVersion: 2.15.1
+name: Xcodegen_demo 
+targets:
+  demo-xcodegen-app:
+    type: application
+    platform: iOS
+    deploymentTarget: "13.0"
+    sources: demo-xcodegen-app/
+  
+
